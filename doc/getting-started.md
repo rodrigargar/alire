@@ -293,8 +293,8 @@ not an error) with `-q`, which enables quiet mode. Any subprocess that exist
 abnormally will be reported, including its invocation arguments.
 
 If you suspect your settings may be the source of some problem, please check
-our section on [Settings](settings), and in particular how to use a [default
-pristine settings](settings#Relocating-your-settings)
+our section on [Settings](settings) and, in particular, how to use a [default
+set of pristine settings](settings#Relocating-your-settings)
 
 ## Running tests
 
